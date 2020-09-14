@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://batman084.github.io/CAVote/categories/</loc>
+    <loc>https://batman084.github.io/CAVote/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://batman084.github.io/CAVote/</loc>
+    <loc>https://batman084.github.io/CAVote/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
